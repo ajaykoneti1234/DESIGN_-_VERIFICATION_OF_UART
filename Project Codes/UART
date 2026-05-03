@@ -1,1 +1,4 @@
+git rm UART
+git commit -m "Deleted UART file"
+git push origin main
 
